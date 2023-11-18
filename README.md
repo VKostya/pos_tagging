@@ -1,8 +1,8 @@
 # pos_tagging
 
 ## answers:
-noun - 1049 (существительное)
-conjunction - 594 (союз)
-verb - 587 (глагол)
-determiner - 465 (укзазатель)
-adjective - 275 (прилагательное)
+1. noun - 1049 (существительное)
+2. conjunction - 594 (союз)
+3. verb - 587 (глагол)
+4. determiner - 465 (укзазатель)
+5. adjective - 275 (прилагательное)
